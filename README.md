@@ -12,7 +12,7 @@ In this phase, data is explored through plots and charts to understand distribut
 Machine learning models are trained using the prepared dataset. Different algorithms are applied to learn patterns and relationships in the data.
 4. **Prediction**  
 The trained models are used to make predictions on unseen test data. Model performance is evaluated based on these predictions.
-5. **Comprasion**  
+5. **Comparison**  
 The results of different models are compared using metrics such as accuracy, recall and F1-score. The best-performing model is selected based on these evaluations.
 
    
