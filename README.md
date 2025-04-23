@@ -15,6 +15,8 @@ The trained models are used to make predictions on unseen test data. Model perfo
 5. **Comparison**  
 The results of different models are compared using metrics such as accuracy, recall and F1-score. The best-performing model is selected based on these evaluations.
 
-   
+The Result:
+![Entry Window](result1.png)
+
    
     
