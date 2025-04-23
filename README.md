@@ -18,5 +18,9 @@ The results of different models are compared using metrics such as accuracy, rec
 The Result:
 ![Entry Window](result1.png)
 
+![Entry Window](result2.png)
+
+![Entry Window](result3.png)
+
    
     
