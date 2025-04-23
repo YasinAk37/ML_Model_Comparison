@@ -2,7 +2,7 @@
 
 The data is taken from (https://www.kaggle.com/datasets/sahistapatel96/bankadditionalfullcsv)
 
-### The step of the analyzes:
+### The step of the Analyzes:
 
 1. **Data Cleaning**   
 This step involves handling missing values, removing duplicates, and correcting inconsistent data to ensure a high-quality dataset. Clean data is crucial for accurate model training and evaluation
