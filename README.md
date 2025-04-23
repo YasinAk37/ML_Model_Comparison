@@ -4,11 +4,12 @@ The data is taken from (https://www.kaggle.com/datasets/sahistapatel96/bankaddit
 
 ### The step of the analyzes:
 
-1) Data Cleaning /
-   Looked for missing, duplicated and wrong data and cleaned.
-   Maked ready the data for visualizing and Training.
+1) Data Cleaning 
+2) Visualizing
+3) Training
+4) Prediction
+5) Comprasion
 
-2) Visualizing /
-   For understand the data we visualized parameters of the data.
+   
    
     
