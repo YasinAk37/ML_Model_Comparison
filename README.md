@@ -5,7 +5,8 @@ The data is taken from (https://www.kaggle.com/datasets/sahistapatel96/bankaddit
 ### The step of the analyzes:
 
 1) Data Cleaning
-   -This step involves handling missing values, removing duplicates, and correcting inconsistent data to ensure a high-quality dataset. Clean data is crucial for accurate model training and evaluation
+
+This step involves handling missing values, removing duplicates, and correcting inconsistent data to ensure a high-quality dataset. Clean data is crucial for accurate model training and evaluation
 3) Visualizing
 -In this phase, data is explored through plots and charts to understand distributions, relationships, and potential outliers. Visualization helps guide feature selection and model choice.
 5) Training
