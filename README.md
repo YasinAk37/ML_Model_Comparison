@@ -34,11 +34,11 @@ This project provides a structured comparison of widely used supervised machine 
 
 Below is a visual summary of the model comparison:
 
-![Model Performance](result1.png)
+![Accuracy](result1.png)
 
-![Model Performance](result2.png)
+![Recall](result2.png)
 
-![Model Performance](result3.png)
+![F1_score](result3.png)
 
 ---
 
