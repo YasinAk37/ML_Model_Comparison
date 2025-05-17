@@ -38,7 +38,7 @@ Below is a visual summary of the model comparison:
 
 ![Model Performance](result2.png)
 
-![Model Performance](result2.png)
+![Model Performance](result3.png)
 
 ---
 
